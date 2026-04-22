@@ -13,3 +13,4 @@ This project uses Linear Regression to predict house prices using the California
 
 ## How to Run
 Open the notebook in Google Colab and run all cells.
+Suteekshn Manchanda
